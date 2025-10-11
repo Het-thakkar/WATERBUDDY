@@ -5,7 +5,7 @@
 - **Student Name:** Het Thakkar  
 - **Course:** Artificial Intelligence (IBCP)  
 - **Institution:** Udgam School for Children, Ahmedabad  
-- **Submission Date: 30 October 2025  
+- **Submission Date: 30 september 2025  
 
 ---
 
