@@ -57,4 +57,4 @@ The project combines real-world problem-solving with programming concepts such a
 
 ### 🔗 Project link  
 ```bash
-http://localhost:8501
+https://waterbuddy-ai2bxjxsukc9s6f8vrhkcs.streamlit.app/
